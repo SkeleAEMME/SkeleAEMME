@@ -1,11 +1,8 @@
-# 💫 About Me:
 <div align="center">
 
-# 👋 Hey, I'm SkeleAEMME
+  <h1>👋 Hey, I'm SkeleAEMME</h1>
 
-### 🇮🇹 Italian developer passionate about backend development and low-level programming
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Node.js+Developer;Rust+Learner;C%2B%2B+Programmer;Discord+Bot+Developer" />
+  <h3>🇮🇹 Italian developer passionate about backend development &amp; low-level programming</h3>
 
 </div>
 
@@ -13,46 +10,32 @@
 
 ## 👨‍💻 About Me
 
-- 👦 18 years old  
-- 🇮🇹 From Italy  
-- 📖 Currently learning **Rust** and **C++**  
-- 🖥️ Working with **Node.js** for over 4 years  
-- 🤖 Experienced with **discord.js** and **MongoDB**  
-- 🎮 I like videogames  
-- 🤝🏻 My brother: [Advy](https://github.com/SkeleAENNE)
+- 👦 **18 years old**, from **Italy**.
+- 🦀 Developing in **Rust** — I've built my own **package manager**.
+- 🟢 Nearly **5 years of experience with Node.js**.
+- 🤖 Experienced with **discord.js** and **MongoDB**.
+- 🎮 Into **video games** when I'm not coding.
+- 🤝 My brother: **[Advy](https://github.com/SkeleAENNE)**.
+
+---
+
+## 🚀 What I Like Building
+
+1. 🤖 Discord bots
+2. ⚙️ Backend systems
+3. 💻 CLI projects
+4. ⚡ Automation tools
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=rust" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,ts,js,mongodb,java,git,github" alt="Rust, Node.js, TypeScript, JavaScript, MongoDB, Java, Git and GitHub" />
 </p>
 
 ---
 
-## 🚀 What I Like Building
-
-- Discord bots  
-- Backend systems  
-- Terminal tools  
-- Experimental Rust projects  
-- Automation tools  
-
----
-
 <div align="center">
-
-### Thanks for visiting my profile 👀
-
+  <h3>Thanks for visiting my profile 👀</h3>
 </div>
